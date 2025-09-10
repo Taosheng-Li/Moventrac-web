@@ -8,7 +8,7 @@ export default function HomePage() {
     <main className="min-h-screen flex flex-col items-center justify-center px-6 py-16">
       <div className="max-w-3xl text-center">
         <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight">
-          Moventrac · Smart Fitness Tracking
+          Moventrac · Smart Exercise Tracking
         </h1>
         <p className="mt-4 text-lg text-gray-600">
           Connect your device, track every workout, and see your trends.
